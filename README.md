@@ -1,0 +1,2 @@
+# JayHttpRequestManager
+HttpRequestManager use AFNetworking
